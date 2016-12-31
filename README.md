@@ -9,8 +9,10 @@ JavaScript library to make a splash screen.
 ```
 
 #### Options:
+
+
 Option Name | Default
-- | -
+--- | ---
 imgSrc | N/A
 splashFill | N/A
 preventCache | `true`
