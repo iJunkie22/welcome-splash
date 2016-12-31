@@ -1,6 +1,8 @@
 # welcome-splash
 JavaScript library to make a splash screen.
 
+[View the demo](http://mastersof.solutions)
+
 #### Usage:
 ```html
 <script type="text/javascript">
